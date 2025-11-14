@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Data files (generated)
+*.csv
+ecom.db
+
+# VS Code
+.vscode/
