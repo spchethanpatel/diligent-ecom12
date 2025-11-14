@@ -56,10 +56,4 @@ data/*.csv
 
 ecom.db
 
-If you want, I can also upgrade this into a full premium README with:
 
-✨ Badges
-✨ Diagrams (ERD)
-✨ Architecture Flow
-✨ Code block previews
-✨ Screenshots
